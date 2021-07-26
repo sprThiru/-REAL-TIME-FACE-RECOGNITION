@@ -1,0 +1,68 @@
+
+body{
+    font-family: 'New Rocker', cursive;
+    font-size: 50px;
+    background:("background.jpg");
+    background-size: 50%;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    border-color: black;
+    box-shadow: 10px 10px 10px gray;
+    color: black;
+}
+
+.heading_div2
+{
+    font-size: 20px;
+    background-color:orange ;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    bottom:0;
+    background-color: white;
+    color: gray;
+    font-size: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px gray;
+    margin-top: 130px;
+    border: 5px solid black;
+    width: 300px;
+    height: 300px; 
+    border-radius: 20px;
+    text-align: center;
+}
+
+.result_para_tag
+{
+    box-shadow:10px 10px 10px gray;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#result_object_accuracy
+{
+    box-shadow:10px 10px 10px gray;
+    font-size: 20px; 
+    margin-top: 0px;
+}
